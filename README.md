@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0791321486/badrutendo5@gmail.com
-# bus booking system
+# Bus Booking System
 This system i created for it to aid passengers to book bus seats to their destination at fixed depature times. It also aids the owner to arrange the bus schedules and know 
 their income. The system can also print tickets for passengers.
 The passengers can book specific seats based on their best suite.
